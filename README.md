@@ -63,7 +63,7 @@ Usage: FuYao [-t xxx.com] [-l target.txt] [-poc]
 
 **Scan a target file**: `./FuYao -l target.txt `
 
-**Scan a target file and scan for vulnerabilities**: `./FuYao -l target.txt -poc** `
+**Scan a target file and scan for vulnerabilities**: `./FuYao -l target.txt -poc`
 
 ----
 
