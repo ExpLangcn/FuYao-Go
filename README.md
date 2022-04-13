@@ -1,10 +1,5 @@
 # FuYao - Go
 
-## Stargazers over time
-
-[![Stargazers over time](https://starchart.cc/ExpLangcn/FuYao-Go.svg)](https://starchart.cc/ExpLangcn/FuYao-Go)
-
-
 #### [Join Discord](https://discord.gg/GCZzJmzW3G) ｜[中文文档](README_CN.md)｜[issues](https://github.com/ExpLangcn/FuYao-Go/issues)
 
 <img src="https://tva1.sinaimg.cn/large/e6c9d24egy1h17yaqtwb7j20uq0lwdim.jpg" alt="image-20220413114822870" style="zoom: 50%;" />
@@ -90,3 +85,9 @@ Usage: FuYao [-t xxx.com] [-l target.txt] [-poc]
 <img src="https://tva1.sinaimg.cn/large/e6c9d24egy1h17yaq5zf6j20u012aq5x.jpg" alt="image-20220413113316684" style="zoom: 33%;" />
 
 #### **[Join Discord](https://discord.gg/GCZzJmzW3G)**
+
+----
+
+### Stargazers over time
+
+[![Stargazers over time](https://starchart.cc/ExpLangcn/FuYao-Go.svg)](https://starchart.cc/ExpLangcn/FuYao-Go)
