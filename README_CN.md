@@ -1,5 +1,9 @@
 # FuYao - Go 扶摇直上九万里
 
+## Stargazers over time
+
+[![Stargazers over time](https://starchart.cc/ExpLangcn/FuYao-Go.svg)](https://starchart.cc/ExpLangcn/FuYao-Go)
+
 ####  [加入Discord](https://discord.gg/GCZzJmzW3G)｜[英文文档](README.md)｜[问题反馈](https://github.com/ExpLangcn/FuYao-Go/issues)
 
 <img src="https://tva1.sinaimg.cn/large/e6c9d24egy1h17yaqtwb7j20uq0lwdim.jpg" alt="image-20220413114822870" style="zoom: 50%;" />
