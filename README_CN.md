@@ -2,7 +2,7 @@
 
 ####  [加入Discord](https://discord.gg/GCZzJmzW3G)｜[英文文档](README.md)｜[问题反馈](https://github.com/ExpLangcn/FuYao-Go/issues)
 
-<img src="img/e6c9d24egy1h17y8fpf86j20uq0lwmzy.png" alt="image-20220413114822870" style="zoom: 50%;" />
+<img src="https://tva1.sinaimg.cn/large/e6c9d24egy1h17yaqtwb7j20uq0lwdim.jpg" alt="image-20220413114822870" style="zoom: 50%;" />
 
 **自动化进行目标资产探测和安全漏洞扫描｜适用于赏金活动、SRC活动、大规模使用、大范围使用|通过使用被动在线资源来发现网站的有效子域｜使用零误报的定制模板向目标发送请求，同时可以对大量主机进行快速扫描。｜提供TCP、DNS、HTTP、FILE等各类协议的扫描，通过强大且灵活的模板，模拟各种安全检查**
 
@@ -31,7 +31,7 @@
 
 当前总共有：**8980个POC模版**
 
-![image-20220413112118120](img/e6c9d24egy1h17xgaun57j20em08yt90.png)
+![image-20220413112118120](https://tva1.sinaimg.cn/large/e6c9d24egy1h17yarsz5hj20em08yt90.jpg)
 
 ----
 
@@ -80,6 +80,6 @@ Usage: FuYao [-t xxx.com] [-l target.txt] [-poc]
 
 #### WeChat
 
-<img src="/Users/explang/HackTools/Mytools/go/FuYao/img/e6c9d24egy1h17xsrm1rej20u012agol.png" alt="image-20220413113316684" style="zoom: 33%;" />
+<img src="https://tva1.sinaimg.cn/large/e6c9d24egy1h17yaq5zf6j20u012aq5x.jpg" alt="image-20220413113316684" style="zoom: 33%;" />
 
 #### **[加入Discord](https://discord.gg/GCZzJmzW3G)**
