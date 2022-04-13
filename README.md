@@ -70,7 +70,7 @@ Usage: FuYao [-t xxx.com] [-l target.txt] [-poc]
 ### update record
 
 ````
-2022.4.13 11:40
+2022.4.15 12:00
 - Release v1.0 version
 ````
 
