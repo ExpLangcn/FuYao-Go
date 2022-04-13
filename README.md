@@ -1,5 +1,8 @@
 # FuYao - Go
 
+## 展示/Exhibition
+<!--auto_index_exhibition_begin_5ffbdd274903479a5d958dd90847b2de-->
+
 #### [Join Discord](https://discord.gg/GCZzJmzW3G) ｜[中文文档](README_CN.md)｜[issues](https://github.com/ExpLangcn/FuYao-Go/issues)
 
 <img src="https://tva1.sinaimg.cn/large/e6c9d24egy1h17yaqtwb7j20uq0lwdim.jpg" alt="image-20220413114822870" style="zoom: 50%;" />
