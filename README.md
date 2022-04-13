@@ -1,7 +1,6 @@
 # FuYao - Go
 
-## 展示/Exhibition
-<!--auto_index_exhibition_begin_5ffbdd274903479a5d958dd90847b2de-->
+[![Stargazers over time](https://starchart.cc/Bian-Sh/UniJoystick.svg)](https://starchart.cc/Bian-Sh/UniJoystick)
 
 #### [Join Discord](https://discord.gg/GCZzJmzW3G) ｜[中文文档](README_CN.md)｜[issues](https://github.com/ExpLangcn/FuYao-Go/issues)
 
