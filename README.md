@@ -42,6 +42,8 @@ Currently there are: **8980 POC templates**
 
 ### Using help
 
+#### Windows system is not recommended!
+
 ````
 ./FuYao -h
   ███████╗██╗ ██╗██╗ ██╗ █████╗ ██████╗
