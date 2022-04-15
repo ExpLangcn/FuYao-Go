@@ -1,6 +1,6 @@
 # FuYao - Go
 
-#### [Join Discord](https://discord.gg/GCZzJmzW3G)｜[中文文档](README_CN.md)｜[Feedback](https://github.com/ExpLangcn/FuYao-Go/issues )
+#### [Join Discord](https://discord.gg/GCZzJmzW3G)｜[中文文档](README_CN.md)｜[Feedback](https://github.com/ExpLangcn/FuYao-Go/issues) ｜ **[Problem solving](https://github.com/ExpLangcn/FuYao-Go/wiki/Problem)
 
 <img src="https://tva1.sinaimg.cn/large/e6c9d24egy1h17yaqtwb7j20uq0lwdim.jpg" alt="image-20220413114822870" style="zoom: 50%;" />
 
