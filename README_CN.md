@@ -8,6 +8,20 @@
 
 ----
 
+### 更新记录
+
+```
+2022.4.15 17:10
+	- 发布V1.1版本
+	- 修复Windows下 file missing [file=MANIFEST-000000] 错误
+	- 修复Windows下 no valid templates were found 报错
+	- 优化扫描并发配置
+2022.4.15 12:00
+	- 发布 v1.0版本
+```
+
+----
+
 ### 当前功能 or 未来功能
 
 - [x] 子域名枚举资产收集
@@ -69,11 +83,23 @@ Usage: FuYao [-t xxx.com] [-l target.txt] [-poc]
 
 ----
 
-### 更新记录
+### 配置信息
 
 ```
-2022.4.15 12:00
-	- 发布 v1.0版本
+templates: "data" # Template Catalog
+severity: medium,high,critical # 可选：info,low,medium,high,critical
+markdown-export: "result//pocscan" # POC结果输出目录 
+rate-limit: 500 # POC并发扫描
+bulk-size: 50 # 每个模板最大并行检测数
+concurrency: 50 # 并行执行的最大模板数量
+
+#-----------------
+
+disable-update-check: true # 勿碰
+silent: true # 勿碰
+stats: true # 勿碰
+project: true # 勿碰
+enable-pprof: true # 勿碰
 ```
 
 ----
