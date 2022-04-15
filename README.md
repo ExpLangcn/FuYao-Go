@@ -1,10 +1,24 @@
 # FuYao - Go
 
-#### [Join Discord](https://discord.gg/GCZzJmzW3G) ｜[中文文档](README_CN.md)｜[issues](https://github.com/ExpLangcn/FuYao-Go/issues)
+#### [Join Discord](https://discord.gg/GCZzJmzW3G)｜[English document](README.md)｜[Feedback](https://github.com/ExpLangcn/FuYao-Go/issues )
 
 <img src="https://tva1.sinaimg.cn/large/e6c9d24egy1h17yaqtwb7j20uq0lwdim.jpg" alt="image-20220413114822870" style="zoom: 50%;" />
 
-**Automate target asset detection and security vulnerability scanning | Suitable for bounty campaigns, SRC campaigns, mass usage, mass usage | Discover valid subdomains of websites by using passive online sources | Use custom templates with zero false positives The target sends a request, and can perform a quick scan of a large number of hosts at the same time. ｜Provide scanning of various protocols such as TCP, DNS, HTTP, FILE, etc., simulate various security checks through powerful and flexible templates**
+**Automated target asset detection and security vulnerability scanning | Suitable for bounty campaigns, SRC campaigns, mass usage, mass usage | Discover valid subdomains of websites by using passive online sources | Use custom templates with zero false positives The target sends a request, and can perform a quick scan of a large number of hosts at the same time. ｜Provide scanning of various protocols such as TCP, DNS, HTTP, FILE, etc., simulate various security checks through powerful and flexible templates**
+
+----
+
+### update record
+
+````
+2022.4.15 17:10
+- Release V1.1 version
+- Fix file missing [file=MANIFEST-000000] error under Windows
+- Fix no valid templates were found error under Windows
+- Optimized scan concurrency configuration
+2022.4.15 12:00
+- Release v1.0 version
+````
 
 ----
 
@@ -69,11 +83,23 @@ Usage: FuYao [-t xxx.com] [-l target.txt] [-poc]
 
 ----
 
-### update record
+### Configuration information
 
 ````
-2022.4.15 12:00
-- Release v1.0 version
+templates: "data" # Template Catalog
+severity: medium,high,critical # optional: info,low,medium,high,critical
+markdown-export: "result//pocscan" # POC result output directory
+rate-limit: 500 # POC concurrent scans
+bulk-size: 50 # Maximum number of parallel checks per template
+concurrency: 50 # maximum number of templates to execute in parallel
+
+#-----------------
+
+disable-update-check: true # do not touch
+silent: true # don't touch
+stats: true # don't touch
+project: true # don't touch
+enable-pprof: true # do not touch
 ````
 
 ----
