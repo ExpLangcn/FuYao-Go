@@ -6,6 +6,11 @@
 
 **Automated target asset detection and security vulnerability scanning | Suitable for bounty campaigns, SRC campaigns, mass usage, mass usage | Discover valid subdomains of websites by using passive online sources | Use custom templates with zero false positives The target sends a request, and can perform a quick scan of a large number of hosts at the same time. ｜Provide scanning of various protocols such as TCP, DNS, HTTP, FILE, etc., simulate various security checks through powerful and flexible templates**
 
+## 法律免责声明
+本工具仅面向合法授权的企业安全建设行为，如您需要测试本工具的可用性，请自行搭建靶机环境。 在使用本工具进行检测时，您应确保该行为符合当地的法律法规，并且已经取得了足够的授权。请勿对非授权目标进行扫描。 如果发现上述禁止行为，我们将保留追究您法律责任的权利。
+
+如您在使用本工具的过程中存在任何非法行为，您需自行承担相应后果，我们将不承担任何法律及连带责任. 您的使用行为或者您以其他任何明示或者默示方式表示接受本协议的，即视为您已阅读并同意本协议的约束。
+
 ----
 
 ### update record
