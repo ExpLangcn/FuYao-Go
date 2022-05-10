@@ -60,7 +60,7 @@
 
 ### 当前POC列表
 
-#### [点击查看详情]()
+#### [点击查看详情](https://github.com/ExpLangcn/FuYao-Go/blob/main/README.md#%E6%BC%8F%E6%B4%9E%E5%88%97%E8%A1%A8)
 
 当前总共有：**549个POC模版**
 
