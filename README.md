@@ -62,7 +62,8 @@
 - [x] Shodan自动资产探测
 - [x] Web指纹探测识别
 - [x] 网络空间测绘资产收集
-- [ ] 中间件漏洞利用例：shiro、SpringBoot等...
+- [x] 中间件漏洞利用例：shiro、SpringBoot等...
+- [x] Hunter自动资产探测
 - [ ] 子域名存活WebHook通知
 - [ ] 安全漏洞扫描结果WebHook通知
 - [ ] 待定...
